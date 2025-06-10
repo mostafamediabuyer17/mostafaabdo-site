@@ -1,0 +1,26 @@
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  color: #333;
+}
+
+.social {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.social a {
+  color: #007bff;
+  margin: 0 10px;
+  font-size: 24px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social a:hover {
+  color: #0056b3;
+}
